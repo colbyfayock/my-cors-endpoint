@@ -1,36 +1,15 @@
-# Vercel Function Starter
+# Cross-Origin API Request
 
-Easily create a new API endpoint with Vercel Functions.
+Demo for tutorial 
 
-## Getting Started
+📝 Article: 
 
-1. Clone the reposiory
+📺 YouTube: 
 
-```
-npx degit colbyfayock/demo-vercel-function-starter my-vercel-function
-cd my-vercel-function
-```
+## More tutorials and walkthroughs
 
-2. Install dependencies
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
 
-```
-npm install
-```
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
 
-3. Install the Vercel CLI
-
-```
-npm install -g vercel@latest
-```
-
-4. Start your development server
-
-```
-vercel dev
-```
-
-After connecting a project to Vercel, you should have a new endpoint available at http://localhost:3000/api/hello!
-
-## Deploying
-
-Use the Vercel CLI or connect your GitHub repository and publish!
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
