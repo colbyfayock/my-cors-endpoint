@@ -12,6 +12,7 @@ export function OPTIONS(request: Request) {
     headers: {
       'Access-Control-Allow-Origin': accessOrigin,
       'Access-Control-Allow-Headers': 'Content-Type',
+      'Vary': 'Origin'
     }
   });
 }
@@ -24,6 +25,7 @@ export async function POST(request: Request) {
     headers: {
       'Access-Control-Allow-Origin': accessOrigin,
       'Access-Control-Allow-Headers': 'Content-Type',
+      'Vary': 'Origin'
     }
   });
 }
