@@ -1,10 +1,10 @@
 # Cross-Origin API Request
 
-Demo for tutorial 
+Demo for tutorial [Fix CORS Errors & Allow Cross-Origin API Requests](https://www.youtube.com/watch?v=y4h2FArCMN0)
 
-📝 Article: 
+📝 Article: https://spacejelly.dev/posts/how-to-fix-cors-errors-allow-cross-origin-api-requests
 
-📺 YouTube: 
+📺 YouTube: https://www.youtube.com/watch?v=y4h2FArCMN0
 
 ## More tutorials and walkthroughs
 
